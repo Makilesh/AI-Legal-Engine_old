@@ -1,1 +1,1 @@
-# AI-Legal-Engine
+⚠️ **This project has been superseded** → See **[AI Legal Engine](https://github.com/Makilesh/AI_Legal_Engine)** for the latest production-ready version with multi-agent RAG, real-time voice interaction, and enterprise features.
